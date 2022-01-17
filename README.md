@@ -19,7 +19,7 @@ ans=np.linalg.norm(n,2)
 b="{:.2f}".format(ans)
 print(b)
 ```
-## Sample Input and Output:
+## Output:
 ![norm1](./x.jpg)
 
 ## Result
